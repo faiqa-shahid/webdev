@@ -1,0 +1,28 @@
+*{
+   box-sizing: border-box;
+
+}
+
+.navbar{
+    background-color: rgb(84, 154, 224);
+}
+.body
+{
+    margin:0;
+}
+h3{
+    display:inline-block;
+}
+.ul{
+    display:inline-block;
+    list-style: none;
+    margin:0px;
+    padding-left: 800px;
+}
+ul li a{
+    color:white;
+    text-decoration:none;
+}
+.{
+    background-image:url(https://www.bing.com/rp/hfkFdyEY2XbsXX5nG0wXKdUXx6o.png);
+}

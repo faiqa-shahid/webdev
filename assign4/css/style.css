@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin:0;
+}
+.aa{
+background-color:aqua;
+
+}
+h3{
+    display: inline-block;
+    }
+    ul {
+        display: inline-block;
+        text-decoration: none;
+    }
+    ul li{
+        list-style:none;
+    }
+
+.backimg{
+    background-image: url('../images/photography2.jpg');
+    height: 800px;
+    background-size: cover;
+}
